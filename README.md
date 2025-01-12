@@ -1,2 +1,3 @@
 # acti-canvas-renderer
-Reactive framework with canvas renderer
+
+Reactive library with canvas renderer
